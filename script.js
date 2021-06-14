@@ -1,1 +1,1 @@
-var jour1="meeeu"
+var jour1="Luns"
