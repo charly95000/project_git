@@ -1,1 +1,1 @@
-var jour1="Lundi"
+var jour1="Lunes"
